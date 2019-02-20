@@ -1,0 +1,55 @@
+body{
+ background-color: azure;   
+}
+.mititulo{
+    text-shadow:2px 2px 8px blue;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+.pregunta1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #e9e9e9;
+    height: 100%;
+    width: 100%;
+    margin: 0.3%;
+}
+p{
+    display: flex;
+}
+.respuestaRoja{
+    color: red;
+}
+.respuestaVerde{
+    color: green;
+}
+
+button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.puntuacionVerde{
+    border: 1px solid #999999;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 2%;
+margin: 0.2%;
+}
+
+.puntuacionRoja{
+    border: 1px solid #999999;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 1.5px #888888;
+    text-align: center;
+    padding: 1%;
+margin: 0.2%;
+}
