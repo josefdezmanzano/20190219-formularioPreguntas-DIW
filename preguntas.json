@@ -1,0 +1,84 @@
+{
+    "preguntas":{
+  "pregunta1": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  },
+  "pregunta2": {
+    "pregunta": "¿El quijote es un personaje ficticio?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No" },
+      { "r3": "Si, y estaba loco." }
+    ]
+  },
+  "pregunta3": {
+    "pregunta": "¿Welinton Quiew tiene un corito sano?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, pero si esta a ful de mango" },
+      { "r3": "¿Quien es welinto?" }
+    ]
+  },
+  "pregunta4": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  },
+  "pregunta5": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  },
+  "pregunta6": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  },
+  "pregunta7": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  },
+  "pregunta8": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  },
+  "pregunta9": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  },
+  "pregunta10": {
+    "pregunta": "¿La tierra es plana?",
+    "respuestas": [
+      { "r1": "Si" },
+      { "r2": "No, es redonda" },
+      { "r3": "Depende del terreno asi es la tierra" }
+    ]
+  }
+}
+}

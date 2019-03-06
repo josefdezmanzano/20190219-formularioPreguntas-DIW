@@ -1,4 +1,6 @@
+
 function comprobarPregunta(numero) {
+    
     let respuesta1 = document.getElementById("pregunta1-1");
     let respuesta2 = document.getElementById("pregunta1-2");
     let respuesta3 = document.getElementById("pregunta1-3");
@@ -55,3 +57,4 @@ function comprobarPregunta(numero) {
     }
 
 }
+
