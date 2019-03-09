@@ -1,84 +1,102 @@
 {
     "preguntas":{
-  "pregunta1": {
+  "1": {
+    "tipo": "radio",
     "pregunta": "¿La tierra es plana?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
+      { "1": "Si" },
+      { "2": "No, es redonda" },
+      { "3": "Depende del terreno asi es la tierra" }
+    ],
+    "correcta": "1"
   },
-  "pregunta2": {
+  "2": {
+    "tipo": "radio",
     "pregunta": "¿El quijote es un personaje ficticio?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No" },
-      { "r3": "Si, y estaba loco." }
-    ]
+      { "1": "Si" },
+      { "2": "No" },
+      { "3": "Si, y estaba loco." }
+    ],
+    "correcta": "1"
   },
-  "pregunta3": {
+  "3": {
+    "tipo": "radio",
     "pregunta": "¿Welinton Quiew tiene un corito sano?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, pero si esta a ful de mango" },
-      { "r3": "¿Quien es welinto?" }
-    ]
+      { "1": "Si" },
+      { "2": "No, pero si esta a ful de mango" },
+      { "3": "¿Quien es welinto?" }
+    ],
+    "correcta": "1"
   },
-  "pregunta4": {
+  "4": {
+    "tipo": "radio",
     "pregunta": "¿La tierra es plana?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
+      { "1": "Si" },
+      { "2": "No, es redonda" },
+      { "3": "Depende del terreno asi es la tierra" }
+    ],
+    "correcta": "1"
   },
-  "pregunta5": {
+  "5": {
+    "tipo": "radio",
     "pregunta": "¿La tierra es plana?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
+      { "1": "Si" },
+      { "2": "No, es redonda" },
+      { "3": "Depende del terreno asi es la tierra" }
+    ],
+    "correcta": "1"
   },
-  "pregunta6": {
+  "6": {
+    "tipo": "radio",
     "pregunta": "¿La tierra es plana?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
+      { "1": "Si" },
+      { "2": "No, es redonda" },
+      { "3": "Depende del terreno asi es la tierra" }
+    ],
+    "correcta": "1"
   },
-  "pregunta7": {
+  "7": {
+    "tipo": "radio",
     "pregunta": "¿La tierra es plana?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
+      { "1": "Si" },
+      { "2": "No, es redonda" },
+      { "3": "Depende del terreno asi es la tierra" }
+    ],
+    "correcta": "1"
   },
-  "pregunta8": {
+  "8": {
+    "tipo": "radio",
     "pregunta": "¿La tierra es plana?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
+      { "1": "Si" },
+      { "2": "No, es redonda" },
+      { "3": "Depende del terreno asi es la tierra" }
+    ],
+    "correcta": "1"
   },
-  "pregunta9": {
+  "9": {
+    "tipo": "completar",
+    "pregunta": "¿España es .. ",
+    "respuestas": [
+      { "1": "una grande y libre" }
+    ],
+    "correcta": "una grande y libre"
+  },
+  "10": {
+    "tipo": "multiple",
     "pregunta": "¿La tierra es plana?",
     "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
-  },
-  "pregunta10": {
-    "pregunta": "¿La tierra es plana?",
-    "respuestas": [
-      { "r1": "Si" },
-      { "r2": "No, es redonda" },
-      { "r3": "Depende del terreno asi es la tierra" }
-    ]
+      { "1": "Si" },
+      { "2": "No, es redonda" },
+      { "3": "Depende del terreno asi es la tierra" }
+    ],
+    "correcta": "12"
   }
 }
 }

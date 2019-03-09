@@ -1,15 +1,19 @@
 
+
+
+
+
 function comprobarPregunta(numero) {
     
-    let respuesta1 = document.getElementById("pregunta1-1");
-    let respuesta2 = document.getElementById("pregunta1-2");
-    let respuesta3 = document.getElementById("pregunta1-3");
+    let respuesta1 = document.getElementById("1");
+    let respuesta2 = document.getElementById("2");
+    let respuesta3 = document.getElementById("3");
 
 
     if (respuesta1.checked) {
         let divResultado = document.createElement("div");
         divResultado.classList.add("puntuacionVerde")
-        document.getElementById("pregunta1").appendChild(divResultado);
+        document.getElementById("1").appendChild(divResultado);
         divResultado.innerHTML = 1;
         document.getElementById(numero + "-1").classList.add('respuestaVerde');
         document.getElementById('enviar').disabled = "true";
