@@ -62,8 +62,7 @@ p{
     color: green;
 }
 
-button:disabled,
-button[disabled]{
+.off{
   border: 1px solid #999999;
   background-color: #cccccc;
   color: #666666;
@@ -87,4 +86,14 @@ margin: 0.2%;
     text-align: center;
     padding: 1%;
     margin: 0.2%;
+}
+.explicacion{
+    border: 1px solid #999999;
+    background-color: #039be5;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 1.5px #888888;
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
 }

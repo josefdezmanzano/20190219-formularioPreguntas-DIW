@@ -8,7 +8,8 @@
       { "2": "No, es redonda" },
       { "3": "Depende del terreno asi es la tierra" }
     ],
-    "correcta": "1"
+    "correcta": "No, es redonda",
+    "explicacion": "La correcta es la segunda por que es redonda maquina"
   },
   "2": {
     "tipo": "radio",
@@ -18,17 +19,19 @@
       { "2": "No" },
       { "3": "Si, y estaba loco." }
     ],
-    "correcta": "1"
+    "correcta": "No",
+    "explicacion": "La correcta es la segunda por que el quijote era un maquina da igual si no era real"
   },
   "3": {
     "tipo": "radio",
     "pregunta": "¿Welinton Quiew tiene un corito sano?",
     "respuestas": [
       { "1": "Si" },
-      { "2": "No, pero si esta a ful de mango" },
+      { "2": "No, pero si esta a full de mango" },
       { "3": "¿Quien es welinto?" }
     ],
-    "correcta": "1"
+    "correcta": "Si",
+    "explicacion": "La correcta es la primera por que welinton siempre esta a full de mango con un corito sano kelokeee"
   },
   "4": {
     "tipo": "radio",
@@ -38,7 +41,8 @@
       { "2": "No, es redonda" },
       { "3": "Depende del terreno asi es la tierra" }
     ],
-    "correcta": "1"
+    "correcta": "No, es redonda",
+    "explicacion": "La correcta es la segunda por que es redonda maquina"
   },
   "5": {
     "tipo": "radio",
@@ -48,7 +52,8 @@
       { "2": "No, es redonda" },
       { "3": "Depende del terreno asi es la tierra" }
     ],
-    "correcta": "1"
+    "correcta": "No, es redonda",
+    "explicacion": "La correcta es la segunda por que es redonda maquina"
   },
   "6": {
     "tipo": "radio",
@@ -58,7 +63,8 @@
       { "2": "No, es redonda" },
       { "3": "Depende del terreno asi es la tierra" }
     ],
-    "correcta": "1"
+    "correcta": "No, es redonda",
+    "explicacion": "La correcta es la segunda por que es redonda maquina"
   },
   "7": {
     "tipo": "radio",
@@ -68,7 +74,8 @@
       { "2": "No, es redonda" },
       { "3": "Depende del terreno asi es la tierra" }
     ],
-    "correcta": "1"
+    "correcta": "No, es redonda",
+    "explicacion": "La correcta es la segunda por que es redonda maquina"
   },
   "8": {
     "tipo": "radio",
@@ -78,7 +85,8 @@
       { "2": "No, es redonda" },
       { "3": "Depende del terreno asi es la tierra" }
     ],
-    "correcta": "1"
+    "correcta": "No, es redonda",
+    "explicacion": "La correcta es la segunda por que es redonda maquina"
   },
   "9": {
     "tipo": "completar",
@@ -86,7 +94,8 @@
     "respuestas": [
       { "1": "una grande y libre" }
     ],
-    "correcta": "una grande y libre"
+    "correcta": "una grande y libre",
+    "explicacion": "La respuesta mas acertada seria UNA GRANDE Y LIBRE por que lo que dice el caudillo va a misa."
   },
   "10": {
     "tipo": "multiple",
@@ -96,7 +105,8 @@
       { "2": "No, es redonda" },
       { "3": "Depende del terreno asi es la tierra" }
     ],
-    "correcta": "12"
+    "correcta": "12",
+    "explicacion": "La respuesta mas acertada seria la primera y la segunda por que si"
   }
 }
 }
