@@ -35,51 +35,51 @@
   },
   "4": {
     "tipo": "radio",
-    "pregunta": "¿La tierra es plana?",
+    "pregunta": "¿puntua este test?",
     "respuestas": [
-      { "1": "Si" },
-      { "2": "No, es redonda" },
-      { "3": "Depende del terreno asi es la tierra" }
+      { "1": "9.99" },
+      { "2": "10" },
+      { "3": "9.98" }
     ],
-    "correcta": "No, es redonda",
-    "explicacion": "La correcta es la segunda por que es redonda maquina"
+    "correcta": "10",
+    "explicacion": "La correcta es 10!"
   },
   "5": {
     "tipo": "radio",
-    "pregunta": "¿La tierra es plana?",
+    "pregunta": "¿Que frase famosa dijo rajoy?",
     "respuestas": [
-      { "1": "Si" },
-      { "2": "No, es redonda" },
-      { "3": "Depende del terreno asi es la tierra" }
+      { "1": "Me gustan los catalanes porque hacen cosas" },
+      { "2": "Asi va españa" },
+      { "3": "¿Por donde se sale?" }
     ],
-    "correcta": "No, es redonda",
-    "explicacion": "La correcta es la segunda por que es redonda maquina"
+    "correcta": "Me gustan los catalanes porque hacen cosas",
+    "explicacion": "La correcta es la primera la dijo en un mitin y madre mia..."
   },
   "6": {
     "tipo": "radio",
-    "pregunta": "¿La tierra es plana?",
+    "pregunta": "¿un gato es?",
     "respuestas": [
-      { "1": "Si" },
-      { "2": "No, es redonda" },
-      { "3": "Depende del terreno asi es la tierra" }
+      { "1": "Un canino" },
+      { "2": "Un insecto" },
+      { "3": "Un felino" }
     ],
-    "correcta": "No, es redonda",
-    "explicacion": "La correcta es la segunda por que es redonda maquina"
+    "correcta": "Un felino",
+    "explicacion": "La correcta es la tercera por que es los gatos son felinos"
   },
   "7": {
     "tipo": "radio",
-    "pregunta": "¿La tierra es plana?",
+    "pregunta": "¿Cuanto es 2+2?",
     "respuestas": [
-      { "1": "Si" },
-      { "2": "No, es redonda" },
-      { "3": "Depende del terreno asi es la tierra" }
+      { "1": "4" },
+      { "2": "21" },
+      { "3": "300" }
     ],
-    "correcta": "No, es redonda",
-    "explicacion": "La correcta es la segunda por que es redonda maquina"
+    "correcta": "4",
+    "explicacion": "La correcta es 4, si estas viendo este mensaje en rojo no me voy a molestar ni en explicartelo"
   },
   "8": {
     "tipo": "radio",
-    "pregunta": "¿La tierra es plana?",
+    "pregunta": "¿La tierra es concava?",
     "respuestas": [
       { "1": "Si" },
       { "2": "No, es redonda" },
@@ -99,14 +99,14 @@
   },
   "10": {
     "tipo": "multiple",
-    "pregunta": "¿La tierra es plana?",
+    "pregunta": "¿Java script es?",
     "respuestas": [
-      { "1": "Si" },
-      { "2": "No, es redonda" },
-      { "3": "Depende del terreno asi es la tierra" }
+      { "1": "Un lenguaje de programacion" },
+      { "2": "Un lenguaje interprete" },
+      { "3": "Un famoso buscador" }
     ],
     "correcta": "12",
-    "explicacion": "La respuesta mas acertada seria la primera y la segunda por que si"
+    "explicacion": "La respuesta mas acertada seria la primera y la segunda por que javascript no es un famoso buscador"
   }
 }
 }

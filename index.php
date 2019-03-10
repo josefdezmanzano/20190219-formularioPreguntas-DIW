@@ -248,9 +248,9 @@ session_start();
                   if(isset($_POST["respuestaMultiple"])){
               
               foreach($_POST['respuestaMultiple'] as $indice => $valor){
-              $respuesta=$respuesta.$valor; 
+              @$respuesta=$respuesta.$valor; 
               }
-              echo "esta es la respuesta de la multiple: " . $respuesta;
+              //echo "esta es la respuesta de la multiple: " . $respuesta;
 
             }
           if ($correcta != @$respuesta) {
@@ -268,7 +268,7 @@ session_start();
                     </script>";
           }
           if ($correcta == @$respuesta) {
-            $_SESSION['puntuacion'] = $_SESSION['puntuacion'] + 1;
+            @$_SESSION['puntuacion'] = $_SESSION['puntuacion'] + 1;
             echo "<script>
                     let divResultado = document.createElement('div');
                     divResultado.classList.add('puntuacionVerde')
